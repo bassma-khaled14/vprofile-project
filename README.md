@@ -2,6 +2,7 @@
 I’ve just completed my V Profile Project, where I built a full multi-tier web application stack right on my local environment. This hands-on experience was a great deep dive into practical DevOps and has prepared me for even more advanced challenges in the near future.
 
 **What I Built**
+
 **1-** **Full Multi-Tier Web Application Stack**
 To simulate a real-world production environment, I assembled a complete web app stack tailored for a social networking platform built in Java. Here's an overview of the components I worked with:
 
@@ -17,6 +18,7 @@ To simulate a real-world production environment, I assembled a complete web app 
 
 **2-** **Automation with Vagrant**
 To eliminate repetitive tasks and ensure a consistent environment, I used Vagrant to automate the provisioning of separate virtual machines for each component. This made the setup reproducible and scalable, while saving time on manual configuration.
+
 **3.** **Testing and Validation**
 Once the full stack was up, I rigorously tested to verify system integrity and service interaction:***
 
